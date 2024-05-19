@@ -15,10 +15,6 @@
 
 - 📄 Link to my Resume [https://drive.google.com/file/d/1Zed5IVsae6LvpOUJ1tcPCHZQD8eD5uc7/view?usp=sharing](https://drive.google.com/file/d/1Zed5IVsae6LvpOUJ1tcPCHZQD8eD5uc7/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhavtrivedi2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavtrivedi2002" height="30" width="40" /></a>
